@@ -9,6 +9,7 @@ Racist remarks, threats, supporting terrorist activity, threatening people to di
 These rules are in place to both protect the members of this community as well as requiring a certain participation before people can start posting offers.
 
 * Members must have **5 posts** and have been registered for **14 days** to be allowed to post in this forum.  
+* Members must be approved by a member of staff before being able to post offers.  
 * You must have a website with a proper ordering system. "Email me to get this deal" does not count.
   * For currency other than USD, use the foreign exchange on the day of posting to verify the cost fits the requirement and post the exchange rate of that day.
   * Do not list packages that do not pass the pricing test, even if you have one or more that do.
@@ -64,10 +65,8 @@ We also have some basic rules (which are mainly common decency) which are listed
 # The team
 Currently, the LET staff, which does most day-to-day tasks, is made up of the following people:  
 @mpkossen: Administrator  
-@Spirit: Administrator  
 @jcaleb: Moderator  
 @mikho: Moderator  
-@AnthonySmith: Moderator  
 
 The owners of this website (ColoCrossing) are also present:  
 @jbiloh: Administrator/Jon Biloh  
