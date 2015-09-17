@@ -20,6 +20,8 @@ These rules are in place to both protect the members of this community as well a
 * It is not allowed to respond to threads requesting an offer with "PM me" or "e-mail me" without having had a public thread on LowEndTalk.com with your provider details in it (in accordance with our guidelines) _OR_ a public statement of which company you represent.
 * No unlimited in offers! This means you can not ever feature unlimited disk space. If you offer unlimited bandwidth **you need to specify the limiting factor** and **whether it's shared with other people or not**! Naturally, having unlimited features (like the number of mailboxes) is allowed.  
 
+* **You need to be manually approved in order to post offers in addition to complying with the above rules!** Please contact an 'Administrator' or a 'Full Moderator' to request access.
+
 * Please be informative in your offers. Please list out basic specifications (amount of memory, storage space, monthly data/bandwidth and port speed), virtualization method (Xen, OpenVZ, KVM, etc), data center location and a test IP would be ideal.
 <br />
 
@@ -65,8 +67,8 @@ We also have some basic rules (which are mainly common decency) which are listed
 # The team
 Currently, the LET staff, which does most day-to-day tasks, is made up of the following people:  
 @mpkossen: Administrator  
-@jcaleb: Moderator  
-@mikho: Moderator  
+@jcaleb: Full Moderator  
+@mikho: Full Moderator  
 
 The owners of this website (ColoCrossing) are also present:  
 @jbiloh: Administrator/Jon Biloh  
